@@ -4,4 +4,4 @@ Simple student management project
 using HTML, CSS and JavaScript.
 Features:
 - Add student details
-- Student Registraion.
+- Student Registraion and Student Search.
